@@ -59,5 +59,5 @@ function manipulate(type, r, g, b, a) {
       break;
   }
 
-  return func(r, g, b, a);
+  return func;
 }
